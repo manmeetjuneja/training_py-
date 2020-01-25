@@ -1,0 +1,11 @@
+1. for this 'z' ascii code is compared with the 'a'.
+	hence z code is 127
+	for a is 97
+	therefore z is not less then a. 
+
+
+2. in s1 = "New York" there is 9 length
+	s2 = "Boston" there is 6 length
+	therefore,output is s1>s2 
+		boston 
+		New York

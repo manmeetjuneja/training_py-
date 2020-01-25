@@ -1,0 +1,8 @@
+calcualting average(using bodmas)
+a) r=s=t=5
+   avg = r+s+t/3
+
+step1 5/3 = 1.6666667
+	5+5+1.6666667
+
+step2 avg = 11.666667  

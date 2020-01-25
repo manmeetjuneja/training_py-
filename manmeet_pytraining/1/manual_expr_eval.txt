@@ -1,0 +1,21 @@
+using bodmas
+a)a=4,b=2,x=5,y=4
+	result = 5*b*b*x-3*a*y*y-8*b*b*x+10*a*y
+  step1
+	5*2*2*5-3*4*4*4-8*2*2*5+10*4*4
+
+
+b)a = 2,y = 3,c = 7
+	calc = 4*a*y/c-a*y/c
+
+	step1
+		a*y =2*7 = 14
+		4*2*1-2
+	ans = 2
+
+c) a = 4 b = 0.0 c = 4.2 y = 3.0
+ans = c+a*y*y/b
+
+	4.2+4*4*3.0/0.0
+mathamatics error cannot divide by zero.
+	

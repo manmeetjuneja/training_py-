@@ -1,0 +1,40 @@
+1. for x in[0,1,2,3,4,5]
+	print("i love to program")
+Solution- 
+	for x in range(0,6):
+		print("i love to program") 
+output - 
+	i love to program
+	i love to program
+	i love to program
+	i love to program
+	i love to program
+	i love to program
+
+2. for number in range(2,6):
+	print(number)
+output- 2
+	3
+	4
+	5
+
+3.for number in range(10,5,-1):
+    print(number)
+
+output- 10
+	9
+	8	
+	7
+	6
+		this is an decrememnt range with three arguments , first initilize , second upto , and third -1
+
+4.for number in range(0,501,100):
+	print(number)
+
+output- 0
+	100
+	200
+	300	
+	400
+	500
+this is an range funtion with three arguments and start with 100, end till 501 , with gap of 100.
